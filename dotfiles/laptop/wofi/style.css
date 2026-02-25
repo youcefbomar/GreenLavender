@@ -1,0 +1,28 @@
+* {
+  font-family: "Inter Display", "Caskaydiacove nerd font", "Noto Sans CJK SC",
+    "HarmonyOS Sans SC", "sarasa ui sc";
+  border: none;
+}
+
+window {
+  font-size: 16px;
+  border-radius: 9px;
+  background-color: rgba(12, 18, 33, 0.4);
+}
+
+#entry {
+  padding: 0.25em;
+  background-color: rgba(12, 18, 33, 0.4);
+  color: white;
+}
+
+#input {
+  background-color: rgba(12, 18, 33, 0.4);
+  color: white;
+  padding: 0.25em;
+}
+
+image {
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+}

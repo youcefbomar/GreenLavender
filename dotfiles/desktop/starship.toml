@@ -1,0 +1,19 @@
+add_newline = true
+
+format = """
+[ $username $directory $git_branch $character](bg:#dda1ff fg:#0c1221)[](#dda1ff)
+"""
+
+[username]
+show_always = true
+format = "$user"
+
+[directory]
+format = "$path"
+
+[character]
+success_symbol = "❯"
+error_symbol = "✖"
+
+[git_branch]
+format = "branch"
