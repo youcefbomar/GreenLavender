@@ -8,15 +8,15 @@
 This is the first rice I ever make so I hope u guys enjoy it , plus I wish for any notes to help me improve on my ricing skills and stuff, u know the drill.
 
 
-## My goals :
+## Goals :
 
 * Make it clean and minimalistic
 * Make it run on potatoes and calculators (not literally)
 * Blur
 
 
-![Alt text](./screenshot1.png)
-![Alt text](./screenshot2.png)
+![Alt text](./imgs/screenshot1.png)
+![Alt text](./imgs/screenshot2.png)
 
 
 ## Requirements :
